@@ -20,10 +20,6 @@ My name is Likhitha Guggilla, I am an evolving Data Scientist, experienced Data 
 
 
 
-## Appendix
-
-Any additional information goes here
-
 
 
 

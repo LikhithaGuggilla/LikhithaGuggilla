@@ -29,7 +29,7 @@ My name is Likhitha Guggilla, I am an evolving Data Scientist, experienced Data 
 ## 🔗 Links
 If you're passionate about learning like me, feel free to connect with me on LinkedIn!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LikhithaGuggilla)
+[![portfolio](https://github.com/LikhithaGuggilla?tab=repositories)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhithaguggilla0500/)
 
 

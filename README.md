@@ -21,11 +21,6 @@ My name is Likhitha Guggilla, I am an evolving Data Scientist, experienced Data 
 
 
 
-
-
-
-
-
 ## 🔗 Links
 If you're passionate about learning like me, feel free to connect with me on LinkedIn!
 

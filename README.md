@@ -38,7 +38,7 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 ## Machine Learning 
 | Title | Objective | Repo |
 |-------|---------|------|
-| Customer Credit Risk Assessment | [Link](#) | [Repo](#) |
+| Customer Credit Risk Assessment | This project considers a globally renovated finance company's customers information and classifies them into different credit scores brackets by conducting thorough data exploration and employing a machine learning algorithm| [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Customer_Credit_Risk_Assessment) |
 | Insurance Fraud Detection | [Link](#) | [Repo](#) |
 
 ## Deep Learning 

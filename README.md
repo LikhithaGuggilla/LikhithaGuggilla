@@ -31,32 +31,32 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 
 # Portofolio Content
 ## Machine Learning 
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 | Customer Credit Risk Assessment | This project considers a globally renovated finance company's customers information and classifies them into different credit scores brackets by conducting thorough data exploration and employing a machine learning algorithm| [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Customer_Credit_Risk_Assessment) |
 | Insurance Fraud Detection | [Link](#) | [Repo](#) |
 
 ## Deep Learning 
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 | Classifying Images of Alcoholic Beverages with fast.ai v2 | [Link](#) | [Repo](#) |
 
 ## Big Data 
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 | Crypto Currency Price Fluctuation | [Link](#) | [Repo](#) |
 
 ## Statistical Analysis 
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 | US Health Trend Analysis | [Link](#) | [Repo](#) |
 
 ## Data Analytics
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 
 ## Generative AI
-| Title | Objective | Repo |
+| Title | Description | Repo |
 |-------|---------|------|
 
 

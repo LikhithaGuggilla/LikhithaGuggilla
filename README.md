@@ -16,12 +16,6 @@ My name is Likhitha Guggilla, I am an evolving Data Scientist, experienced Data 
 
 ✌️Motto - Learning is the key to growing! 
 
-
-
-
-
-
-## 🔗 Links
 If you're passionate about learning like me, feel free to connect with me on LinkedIn!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhithaguggilla0500/)
@@ -29,35 +23,13 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 ## 🔗 Checkout My work and other useful repos!
 [![portfolio](https://img.shields.io/badge/portofolio-0A66C2?style=for-the-badge&logo=portofolio&logoColor=black)](https://github.com/LikhithaGuggilla?tab=repositories)
 
-# Portofolio Content
 ## Machine Learning 
 | Title | Description | Repo |
 |-------|---------|------|
 | Customer Credit Risk Assessment | This project considers a globally renovated finance company's customers information and classifies them into different credit scores brackets by conducting thorough data exploration and employing a machine learning algorithm| [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Customer_Credit_Risk_Assessment) |
-| Insurance Fraud Detection | [Link](#) | [Repo](#) |
+| Insurance Fraud Detection | This project considers an insurance company's historical auto-mobile claims information to detect future potential frauds associated with submitted claims.  | [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Insurance_Fraud_Detection) |
 
-## Deep Learning 
-| Title | Description | Repo |
-|-------|---------|------|
-| Classifying Images of Alcoholic Beverages with fast.ai v2 | [Link](#) | [Repo](#) |
 
-## Big Data 
-| Title | Description | Repo |
-|-------|---------|------|
-| Crypto Currency Price Fluctuation | [Link](#) | [Repo](#) |
-
-## Statistical Analysis 
-| Title | Description | Repo |
-|-------|---------|------|
-| US Health Trend Analysis | [Link](#) | [Repo](#) |
-
-## Data Analytics
-| Title | Description | Repo |
-|-------|---------|------|
-
-## Generative AI
-| Title | Description | Repo |
-|-------|---------|------|
 
 
 

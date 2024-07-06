@@ -34,5 +34,38 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 ## 🔗 Checkout My work and other useful repos!
 [![portfolio](https://img.shields.io/badge/portofolio-0A66C2?style=for-the-badge&logo=portofolio&logoColor=black)](https://github.com/LikhithaGuggilla?tab=repositories)
 
+# Portofolio Content
+## Machine Learning 
+| Title | Objective | Repo |
+|-------|---------|------|
+| Customer Credit Risk Assessment | [Link](#) | [Repo](#) |
+| Insurance Fraud Detection | [Link](#) | [Repo](#) |
+
+## Deep Learning 
+| Title | Objective | Repo |
+|-------|---------|------|
+| Classifying Images of Alcoholic Beverages with fast.ai v2 | [Link](#) | [Repo](#) |
+
+## Big Data 
+| Title | Objective | Repo |
+|-------|---------|------|
+| Crypto Currency Price Fluctuation | [Link](#) | [Repo](#) |
+
+## Statistical Analysis 
+| Title | Objective | Repo |
+|-------|---------|------|
+| US Health Trend Analysis | [Link](#) | [Repo](#) |
+
+## Data Analytics
+| Title | Objective | Repo |
+|-------|---------|------|
+
+## Generative AI
+| Title | Objective | Repo |
+|-------|---------|------|
+
+
+
+
 
 

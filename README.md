@@ -30,10 +30,10 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 | Insurance Fraud Detection | This project considers an insurance company's historical auto-mobile claims information to detect future potential frauds associated with submitted claims.  | [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Insurance_Fraud_Detection) |
 
 ## Generative AI 
-| Title | Description | Repo |
-|-------|---------|------|
-|Generative AI for beginners| | [Repo] (https://github.com/LikhithaGuggilla/generative-ai-for-beginners)|
-| Awesome Generative AI| | [Repo] (https://github.com/LikhithaGuggilla/awesome-generative-ai)|
+| Title | Repo |
+|-------|------|
+|Generative AI for beginners|[Repo](https://github.com/LikhithaGuggilla/generative-ai-for-beginners)|
+| Awesome Generative AI|[Repo](https://github.com/LikhithaGuggilla/awesome-generative-ai)|
 
 
 

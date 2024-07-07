@@ -29,6 +29,12 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 | Customer Credit Risk Assessment | This project considers a globally renovated finance company's customers information and classifies them into different credit scores brackets by conducting thorough data exploration and employing a machine learning algorithm| [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Customer_Credit_Risk_Assessment) |
 | Insurance Fraud Detection | This project considers an insurance company's historical auto-mobile claims information to detect future potential frauds associated with submitted claims.  | [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Insurance_Fraud_Detection) |
 
+## Generative AI 
+| Title | Description | Repo |
+|-------|---------|------|
+|Generative AI for beginners| | [Repo] (https://github.com/LikhithaGuggilla/generative-ai-for-beginners)|
+| Awesome Generative AI| | [Repo] (https://github.com/LikhithaGuggilla/awesome-generative-ai)|
+
 
 
 

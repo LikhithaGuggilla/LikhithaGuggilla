@@ -29,7 +29,7 @@ If you're passionate about learning like me, feel free to connect with me on Lin
 | Customer Credit Risk Assessment | This project considers a globally renovated finance company's customers information and classifies them into different credit scores brackets by conducting thorough data exploration and employing a machine learning algorithm| [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Customer_Credit_Risk_Assessment) |
 | Insurance Fraud Detection | This project considers an insurance company's historical auto-mobile claims information to detect future potential frauds associated with submitted claims.  | [Repo](https://github.com/LikhithaGuggilla/Projects/tree/main/Insurance_Fraud_Detection) |
 
-## Machine Learning 
+## Deep Learning 
 | Title | Description | Repo |
 |-------|---------|------|
 |Python Basics with Numpy|Learn to use numpy for operations on matrices and vectors, understand broadcasting, and vectorize code for efficiency. Grasp how numpy is utilized for calculating sigmoid functions, gradient descent, and loss functions in neural networks. |[Repo](https://github.com/LikhithaGuggilla/Deep_Learning/tree/main/Python_with_Numpy)|

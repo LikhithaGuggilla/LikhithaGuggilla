@@ -12,10 +12,10 @@
 
 
 ### 🏅 Certifications:
-- **Microsoft Azure Data Scientist Associate**  
+- Microsoft Azure Data Scientist Associate  
 
 ---
-Core Competencies
+## **Core Competencies**
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 

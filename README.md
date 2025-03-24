@@ -1,5 +1,8 @@
 ## Hi there, I'm Likhitha Guggilla! 👋
 
+<img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Github_Gif.gif" align="right" width="350" />
+
+
 🌱 **Expertise:** Data Analysis & Visualization, Machine Learning, and Generative AI
 
 😄 **Pronouns:** She/Her

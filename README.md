@@ -3,7 +3,7 @@
 <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Github_gif2.gif" align="right" width="200" />
 
 
-🌱 **Expertise:** Data Analysis & Visualization, Machine Learning, and Generative AI
+🌱 **Expertise:** ETL, Data Analysis & Visualization, Machine Learning, and Generative AI
 
 😄 **Pronouns:** She/Her
 

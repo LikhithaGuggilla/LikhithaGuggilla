@@ -16,7 +16,15 @@
 
 
 ### 🏅 Certifications:
-- Microsoft Azure Data Scientist Associate  
+
+  <p align="center">
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Microsoft_Azure_Data_Scientist_Associate.png" width="45%" style="margin: 10px;" />
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/PowerBI_Certificate.png" width="40%" style="margin: 10px;" />
+  <br/>
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Amazon_Athena_Certificate.png" width="45%" style="margin: 10px;" />
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Alteryx_Certificate.png" width="42%" style="margin: 10px;" />
+</p>
+
 
 ---
 ## **Core Competencies**

@@ -15,7 +15,7 @@
    - **Email:** [guggilla.likhitha4500@gmail.com](mailto:guggilla.likhitha4500@gmail.com)  
    - **LinkedIn:** [Likhitha Guggilla](https://www.linkedin.com/in/likhitha-guggilla-6431bb211/)
    - **Get to know me a little bit more:** https://bento.me/likhithaguggilla
-   - **Step into my world of Data Vizz:** https://public.tableau.com/app/profile/likhitha.guggilla1182/vizzes
+   - **Step into my Data Vizz world:** https://public.tableau.com/app/profile/likhitha.guggilla1182/vizzes
 
 
 

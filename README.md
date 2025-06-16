@@ -3,7 +3,9 @@
 <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Github_gif2.gif" align="right" width="200" />
 
 
-🌱 **Expertise:** ETL, Data Analysis & Visualization, Machine Learning, and Generative AI
+🌱 **Expertise:** ETL, Data Modeling, Data Analysis & Visualization, Statistics and Predictive Modeling
+
+🧠 **Fundamental Knowledge:** Generative AI
 
 😄 **Pronouns:** She/Her
 
@@ -22,7 +24,6 @@
   <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Microsoft_Azure_Data_Scientist_Associate.png" width="45%" style="margin: 10px;" />
   <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/PowerBI_Certificate.png" width="40%" style="margin: 10px;" />
   <br/>
-  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Amazon_Athena_Certificate.png" width="45%" style="margin: 10px;" />
   <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Alteryx_Certificate.png" width="42%" style="margin: 10px;" />
 </p>
 

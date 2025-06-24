@@ -3,7 +3,7 @@
 <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/Github_gif2.gif" align="right" width="200" />
 
 
-🌱 **Expertise:** ETL, Data Modeling, Data Analysis & Visualization, Statistics and Predictive Modeling
+🌱 **Expertise:** ETL, Data Modeling, Data Analysis & Visualization, Statistical and Predictive Analytics (Modeling)
 
 🧠 **Fundamental Knowledge:** Generative AI
 

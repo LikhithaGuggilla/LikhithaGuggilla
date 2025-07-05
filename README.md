@@ -2,21 +2,27 @@
 
 <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/github_gif.gif" align="right" width="250" />
 
+👧 **Pronouns:** She/Her
 
-🌱 **Expertise:** ETL, Data Modeling, Data Analysis & Visualization, 
-      Statistical and Predictive Analytics (Modeling)
+👔 **What I do**
 
-🧠 **Fundamental Knowledge:** Generative AI
+      1. I craft analytical workflows to make data accessible for decision-making 
+      2. I employee data analysis methods to unlock insights and add business value
 
-😄 **Pronouns:** She/Her
+🌱 **Expertise:** ETL, Data Modeling, Data Warehousing, Data Visualization, Statistical Data Analysis, and Predictive Analytics (Modeling)
 
-✌️ **Motto** - Continuous learning is the key to growth!
+🧠 **Exploring:** AI to deliver more sophisticated data-driven strategies.
 
-📫 **Reach me at:**  
+✌️ **Guiding Principle** - Continuous learning is the key to growth!
+     
+😄 **Get to know me a little more:** https://bento.me/likhithaguggilla
+
+📊 **Step into my Data Vizz world:** https://public.tableau.com/app/profile/likhitha.guggilla1182/vizzes
+
+
+🤝 **Let's connect:**  
    - **Email:** [guggilla.likhitha4500@gmail.com](mailto:guggilla.likhitha4500@gmail.com)  
    - **LinkedIn:** https://www.linkedin.com/in/likhitha0500/
-   - **Get to know me a little bit more:** https://bento.me/likhithaguggilla
-   - **Step into my Data Vizz world:** https://public.tableau.com/app/profile/likhitha.guggilla1182/vizzes
 
 
 

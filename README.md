@@ -6,7 +6,7 @@
 
 👔 **What I do**
 
-      1. I craft analytical workflows to make data accessible for decision-making 
+      1. I craft analytical workflows and BI dashboards to make data accessible for decision-making 
       2. I employee data analysis methods to unlock insights and add business value
 
 🌱 **Expertise:** ETL, Data Modeling, Data Warehousing, Data Visualization, Statistical Data Analysis, and Predictive Analytics (Modeling)

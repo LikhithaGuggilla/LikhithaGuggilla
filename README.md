@@ -16,11 +16,16 @@
 🧠 **Exploring:** AI to deliver more sophisticated data-driven strategies.
 
 ✌️ **Guiding Principle** - Continuous learning is the key to growth!
+
+---
      
 😄 **Get to know me a little more:** https://bento.me/likhithaguggilla
 
 📊 **Step into my Data Vizz world:** https://public.tableau.com/app/profile/likhitha.guggilla1182/vizzes
 
+✒️ **Read my stories about data on medium:** https://likhitha-guggilla.medium.com/
+
+---
 
 🤝 **Let's connect:**  
    - **Email:** [guggilla.likhitha4500@gmail.com](mailto:guggilla.likhitha4500@gmail.com)  

@@ -1,9 +1,8 @@
-## Hi there, I'm Likhitha Guggilla! 👋
-
 <p align="center">
-<img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/github_gif.gif" width="250" />
+<img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/perfil.png" width="300" />
 </p>
 
+## Hi there, I'm Likhitha Guggilla 👋
 👧 **Pronouns:** She/Her
 
 👔 **What I do**

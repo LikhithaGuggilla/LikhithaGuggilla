@@ -1,9 +1,15 @@
+
+
 <div align="center">
-  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/coding-girl.gif?raw=true" width="500"/>
-  <h2>Hi there, I'm Likhitha👋</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=435&lines=Busy+building+AI+and+ML+solutions" alt="Typing SVG" />
-  <h3>AI Engineer Intern @ Kahana Group Inc.</h3>
-</div>>
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/coding-girl.gif?raw=true" width="300"/>
+
+  <h2>Hi there, I'm Likhitha 👋</h2>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern+%40+Kahana;Building+Agentic+AI+%26+RAG+Systems;Data+Science+Grad+%40+UConn" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ---
 

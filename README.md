@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/coding-girl.gif?raw=true" width="300"/>
 
-  <h2>Hi there, I'm Likhitha 👋</h2>
+  <h2>Hello👋 I'm Likhitha </h2>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern+%40+Kahana;Building+Agentic+AI+%26+RAG+Systems;Data+Science+Grad+%40+UConn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=620&lines=AI+Engineer+Intern+%40+Kahana;Building+Production-grade+RAG+%26+Agentic+Systems;Data+Science+Grad+%40+UConn" alt="Typing SVG" />
   </a>
 </div>
 
@@ -63,6 +63,9 @@ Here are some of the key certifications that validate my expertise:
 
 <p align="left">
 
+<a href="https://maven.com/wrap-up/950ed549" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Maven_End--to--End_AI_Engineering-0078D4?style=for-the-badge&logo=robotframework&logoColor=white" alt="End-to-End AI Engineering"/>
+</a>
   <a href="https://learn.microsoft.com/en-us/users/guggillalikhitha-4163/credentials/7c68df66693052f?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Scientist Associate"/>
   </a>

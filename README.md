@@ -1,10 +1,9 @@
-
-<div id="header" align="center">
-  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/coding-girl.gif" width="500"/>
-  <h2 align="center">Hi there, I'm Likhitha👋</h2>
-  <h3 align="center">AI Engineer Intern @Kahana Group Inc. 
-        Busy building AI and ML solutions.</h3>
-</div>
+<div align="center">
+  <img src="https://github.com/LikhithaGuggilla/LikhithaGuggilla/blob/main/coding-girl.gif?raw=true" width="500"/>
+  <h2>Hi there, I'm Likhitha👋</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=435&lines=Busy+building+AI+and+ML+solutions" alt="Typing SVG" />
+  <h3>AI Engineer Intern @ Kahana Group Inc.</h3>
+</div>>
 
 ---
 
